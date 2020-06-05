@@ -1,7 +1,7 @@
  % % *** and SVM model                                                                ***
 % % *** To run the script Netlab and LSSVM softwares/toolboxes are required to be 
 % % *** downloaded in the same folder. 
-% % *** Tested using Netlab software developed by I. Nabney, [Nabney, I., 2002. NETLAB: 
+% % *** Tested using Netlab software developed by I. Nabney, [Nabney, I., 2004. NETLAB: 
 % % *** algorithms for pattern recognition. Springer Science & Business
 % % *** Media]; Netlab can be downloaded at https://www2.aston.ac.uk/eas/research/groups/ncrg/resources/netlab/downloads
 % % *** Tested using LSSVM software/toolbox which cab be downladed at http://www.esat.kuleuven.be/sista/lssvmlab/
